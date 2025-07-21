@@ -1,4 +1,4 @@
-MiniMentor – Student Topic Tracker
+MiniMentor – Student Learning Progress Tracker
 
 MiniMentor is a **Java console-based mini project** built using **Core Java** and **MySQL**. It allows students to register, log in, view subjects and topics, and track their learning progress. Admins can manage subjects and topics.
 
